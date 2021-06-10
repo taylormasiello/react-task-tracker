@@ -1,4 +1,3 @@
-import { black, red } from "chalk";
 import PropTypes from "prop-types";
 
 const Header = ({ title }) => {
@@ -22,6 +21,6 @@ Header.propTypes = {
 // const heading.Style = {
 //  color: 'red',
 //  backgroundColor: 'black',
-//}
+// }
 
 export default Header;
